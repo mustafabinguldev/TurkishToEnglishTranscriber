@@ -31,7 +31,7 @@ It listens to Turkish speech and instantly translates it into English.
 2. Clone the project:
 
     ```bash
-    git clone https://github.com/yourusername/project-name.git
+    git clone https://github.com/mustafabinguldev/TurkishToEnglishTranscriber.git
     ```
 
 3. Open it with an IDE like IntelliJ IDEA.
